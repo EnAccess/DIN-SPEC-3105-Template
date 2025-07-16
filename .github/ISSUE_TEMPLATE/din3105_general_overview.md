@@ -1,6 +1,6 @@
 ---
 name: "[Review][Main] General Overview"
-about: Suggest an idea for this project
+about: Create a DIN SPEC 3105 review issue
 title: "[Review][Main] General Overview"
 labels: ""
 assignees: ""
