@@ -17,7 +17,7 @@ Additionally, Github Issue templates are provided to ease the creation of tracki
   - `din3105-reject`: Add this tag after the DIN SPEC 3105 review has been done and rejected.
   - `din3105-in-progress`: Add this tag while the DIN SPEC 3105 review is in progress.
 
-  ![alt text](image-3.png)
+  ![alt text](images/image-3.png)
 
 - After you went through all the setup instructions in this `README`,
   remove or adapt this `README` to the project.
@@ -58,16 +58,16 @@ For each of the DIN SPEC 3105 review items create a tracking issue using the `Ne
 
 - Select the template from the list:
 
-  ![alt text](image.png)
+  ![alt text](images/image.png)
 
 - Replace any placeholders in the Issue Template
 
-  ![alt text](image-2.png)
+  ![alt text](images/image-2.png)
 
 - Using the `Assignee`button, assign reviewers to this issue as relevant.
   Then click `Create`.
 
-  ![alt text](image-1.png)
+  ![alt text](images/image-1.png)
 
 ## Certificate generation
 
