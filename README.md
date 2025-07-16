@@ -1,4 +1,4 @@
-# DIN-SPEC-3105-FarmFreeze
+# DIN-SPEC-3105-Template
 
 Use this template repository to create a DIN SPEC 3105 review for the EnAccess CAB.
 
