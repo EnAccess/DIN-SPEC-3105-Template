@@ -1,0 +1,3 @@
+[submodule "OpenSolarCoolingHub"]
+	path = OpenSolarCoolingHub
+	url = git@github.com:EnAccess/OpenSolarCoolingHub.git
