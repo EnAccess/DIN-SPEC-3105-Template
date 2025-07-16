@@ -1,5 +1,5 @@
 ---
-name: "[rev][LEG] Legal requirements, Information on the used license(s) for design, hardware, software and documentation"
+name: "[rev][LEG] Legal requirements, Information on the used license(s) for design, hardware, software and documentation 3"
 about: Create a DIN SPEC 3105 review issue
 title: "[rev][LEG] Legal requirements, Information on the used license(s) for design, hardware, software and documentation"
 labels: ""
