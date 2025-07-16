@@ -8,8 +8,15 @@ Additionally, Github Issue templates are provided to ease the creation of tracki
 ## Create a new review repository
 
 - Click `Use this template` to start a new DIN SPEC 3105 review repository.
-  For the name as `DIN-SPEC-3105-<PROJECT_NAME>` (for example `DIN-SPEC-3105-<FarmFreeze>`)
-- Adapt the description and tags.
+
+  - For the name as `DIN-SPEC-3105-<PROJECT_NAME>` (for example `DIN-SPEC-3105-<FarmFreeze>`)
+  - Choose `EnAccess` as organisation
+  - Provide a description (for example `DIN SPEC 3105 Review of the FarmFreeze project`)
+  - Choose `Public` as visibility
+
+  ![New Repository](images/new-repository.png)
+
+- Adapt the tags of the newly created repository.
   We use the following tags
 
   - `din3105`: This should be present on all repositories.
@@ -17,7 +24,7 @@ Additionally, Github Issue templates are provided to ease the creation of tracki
   - `din3105-reject`: Add this tag after the DIN SPEC 3105 review has been done and rejected.
   - `din3105-in-progress`: Add this tag while the DIN SPEC 3105 review is in progress.
 
-  ![alt text](images/image-3.png)
+  ![Repository Tags](images/repository-tags.png)
 
 - After you went through all the setup instructions in this `README`,
   remove or adapt this `README` to the project.
@@ -58,16 +65,16 @@ For each of the DIN SPEC 3105 review items create a tracking issue using the `Ne
 
 - Select the template from the list:
 
-  ![alt text](images/image.png)
+  ![Issue Template List](images/issue-template-list.png)
 
 - Replace any placeholders in the Issue Template
 
-  ![alt text](images/image-2.png)
+  ![Issue Template Placeholder](images/issue-template-placeholder.png)
 
 - Using the `Assignee`button, assign reviewers to this issue as relevant.
   Then click `Create`.
 
-  ![alt text](images/image-1.png)
+  ![Issue Template Assignee](images/issue-template-assignee.png)
 
 ## Certificate generation
 
